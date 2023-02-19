@@ -6,4 +6,4 @@
 
 Check out fizzbuzz. Pretty cool huh? 😏
 
-![fizzbuzz](fizzbuzz.png)
+![fizzbuzz](fizzbuzzscala.png)
